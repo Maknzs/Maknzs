@@ -1,71 +1,96 @@
 # Hi, I’m Makenzie (Mak) Snodgrass 👋
 
 🎓 Financial Engineering MS Candidate @ Stevens Institute of Technology  
-📊 Strong Economics & Finance Foundation (BA, GPA 3.965, Kent State University)  
-💻 Full-Stack Development Program Graduate @ Carnegie Mellon University  
+📊 BBA in Economics (GPA 4.0), Kent State University  
+💻 Carnegie Mellon University – Full-Stack Development Program  
 
 ---
 
 ## 🔹 What I Do
-I work at the intersection of finance, math, and code.  
-I build models and tools that translate financial theory into data-driven solutions.
 
+I work at the intersection of finance, mathematics, and code — building quantitative models and risk analytics tools that translate financial theory into practical, data-driven systems.
+
+**Focus Areas:**
+- Market Risk & Portfolio Risk Analytics  
 - Quantitative Finance & Financial Engineering  
-- Machine Learning for Finance (Python, scikit-learn, TensorFlow, Keras)  
-- Data Analysis & Visualization (Pandas, R, SQL, Tableau)  
-- Software Development (JavaScript, React, Node.js, APIs)  
+- Statistical Modeling & Time-Series Analysis  
+- Financial Data Engineering (Python, pandas, NumPy, SQL)  
+- Software Development & Tooling  
 
 ---
 
-## 🔹 Projects
+## 🔹 Featured Project
 
-- **[System-Overload.com](https://System-Overload.com)** *(Completed)*  
-  Full-stack web application developed and deployed independently.  
-  • Built using HTML, CSS, JavaScript, Node.js, and SQL  
-  • Designed backend systems for scalability and real-time interaction  
-  • Managed hosting, domain integration, and version control  
-  ✅ Skills: Full-Stack Dev, Deployment, Version Control  
+### 📊 Market Risk VaR Engine
 
----
+A multi-asset portfolio risk monitoring toolkit replicating a simplified bank market risk workflow.
 
-- **Real Estate Valuation Dashboard** *(In Development)*  
-  Interactive dashboard combining financial modeling with data visualization.  
-  • Goal: Automate underwriting and valuation processes  
-  • Tools: Python, Tableau, Excel, SQL  
-  • Application: Commercial real estate analytics  
+**Implements:**
+- Historical VaR (95%, 99%)
+- Parametric Normal VaR (rolling volatility)
+- EWMA (RiskMetrics-style) VaR
+- Rolling covariance-matrix VaR
+- Historical Expected Shortfall (ES / CVaR)
+- VaR backtesting & Kupiec coverage test
+- Exception reporting (CSV export)
+- Stress testing & scenario analysis
+- Component (marginal) VaR decomposition
+- Pre-trade risk impact simulation
 
----
+**Key Concepts Demonstrated:**
+- Portfolio risk aggregation  
+- Correlation-driven risk dynamics  
+- Tail risk measurement  
+- Statistical model validation  
+- Risk contribution analysis  
 
-- **Monte Carlo Portfolio Simulation** *(Planned)*  
-  Building stochastic simulation models to evaluate portfolio risk-return profiles.  
-  • Goal: Quantify portfolio Value-at-Risk (VaR) and Sharpe optimization  
-  • Tools: NumPy, pandas, Python, R  
-  • Application: Institutional risk modeling and portfolio optimization  
-
----
-
-- **Time-Series Forecasting for Asset Prices** *(Planned)*  
-  Python-based models applying ARIMA, GARCH, and LSTM to historical price data.  
-  • Goal: Improve predictive accuracy for short-term and long-term asset trends  
-  • Tools: Python, pandas, scikit-learn, TensorFlow  
-  • Application: Equity/FX risk management and trading strategies  
+📁 Repository: `market-risk-var-engine`
 
 ---
 
-- **Full-Stack Finance Tracker** *(Planned)*  
-  Web-based application for transaction analytics and financial planning.  
-  • Goal: Merge finance knowledge with scalable, user-friendly design  
-  • Tools: React, Node.js, SQL, APIs  
-  • Application: Personal finance and small business dashboards  
+## 🔹 Additional Work
+
+### 🌐 System-Overload.com
+Full-stack web application built and deployed independently.
+
+- Built using HTML, CSS, JavaScript, Node.js, SQL  
+- Designed scalable backend architecture  
+- Managed hosting, domain integration, and version control  
 
 ---
 
-## 🔹 Next Milestones
-- Completing 80% of MS coursework by Spring 2026  
-- Sitting for CFA Level 1 in Fall 2026  
-- Seeking quant/finance internships in Cleveland, Chicago, NYC, or remote  
+## 🔹 Technical Toolkit
+
+**Programming & Data**
+- Python (pandas, NumPy, SciPy, matplotlib)
+- R
+- SQL
+
+**Quant & Modeling**
+- Time-series modeling
+- Monte Carlo simulation
+- Portfolio risk modeling
+- Statistical hypothesis testing
+
+**Development**
+- JavaScript, React, Node.js
+- APIs & backend integration
+- Version control (Git)
 
 ---
 
-💡 Always open to collaboration on finance-focused ML, quant projects, or data applications.  
+## 🔹 Career Direction
+
+Seeking roles in:
+
+- Market Risk  
+- Quantitative Risk Analytics  
+- Portfolio Risk Management  
+- Quantitative Finance  
+
+Open to opportunities in Cleveland, Chicago, NYC, or remote.
+
+---
+
+💡 I enjoy building practical quantitative tools that bridge theory and implementation.  
 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/maksnodgrass).
