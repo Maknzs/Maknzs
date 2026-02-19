@@ -1,8 +1,8 @@
 # Hi, I’m Makenzie (Mak) Snodgrass 👋
 
-🎓 Financial Engineering MS Candidate @ Stevens Institute of Technology  
-📊 BBA in Economics (GPA 4.0), Kent State University  
-💻 Carnegie Mellon University – Full-Stack Development Program  
+🎓 Financial Engineering MS Candidate (Algorithmic Trading Certificate | Current GPA: 4.0),  Stevens Institute of Technology  
+📊 BBA in Economics (Minor: Finance | GPA 4.0), Kent State University  
+💻 Full-Stack Development Bootcamp Certificate, Carnegie Mellon University
 
 ---
 
