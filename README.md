@@ -1,7 +1,7 @@
 # Hi, I’m Makenzie (Mak) Snodgrass 👋
 
 🎓 Financial Engineering MS Candidate,  Stevens Institute of Technology (Algorithmic Trading Certificate | Current GPA: 4.0)  
-📊 BBA in Economics, Kent State University (Finance Minor | Overall GPA 4.0)  
+📊 Economics BBA, Kent State University (Finance Minor | Overall GPA 4.0)  
 💻 Full-Stack Development Bootcamp Certificate, Carnegie Mellon University
 
 ---
