@@ -44,7 +44,7 @@ A multi-asset portfolio risk monitoring toolkit replicating a simplified bank ma
 - Statistical model validation  
 - Risk contribution analysis  
 
-📁 Repository: [market-risk-var-engine]([https://www.linkedin.com/in/maksnodgrass](https://github.com/Maknzs/market_risk_var_engine))
+📁 Repository: [market-risk-var-engine](https://github.com/Maknzs/market_risk_var_engine)
 
 ---
 
